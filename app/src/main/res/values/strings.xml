@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="search_movie">Cari movie...</string>
+    <string name="author_name">Augie Afriyansyah</string>
+    <string name="email">augieafriyansyah@gmail.com</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus bibendum rutrum dolor, id efficitur nunc hendrerit a. Phasellus tempus quam vel nisi eleifend dignissim. Vestibulum commodo odio porta orci sodales, a tempus erat cursus. Nullam auctor, tellus molestie tincidunt ornare, mauris libero accumsan dui, vitae accumsan magna tellus nec ante. Donec dignissim laoreet nisi nec lobortis. Aenean ac orci eget lacus eleifend vulputate. Nunc ullamcorper sit amet lacus ac luctus. Aliquam volutpat, dui a consectetur pretium, orci lectus molestie lacus, euismod malesuada risus tellus nec leo. Maecenas sollicitudin nisl mi, sit amet ornare felis vehicula eget. Morbi eget orci eu eros aliquam auctor ut sed justo. Quisque eu finibus neque, id dictum ligula. Fusce tristique vehicula risus, sed suscipit erat condimentum non. Integer pharetra ut risus eget ornare. Aliquam feugiat commodo eleifend.</string>
+    <string-array name="genre">
+        <item>All</item>
+        <item>Action</item>
+        <item>Drama</item>
+        <item>Romance</item>
+        <item>Comedy</item>
+    </string-array>
+</resources>
